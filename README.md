@@ -1,6 +1,6 @@
 # CHAT APPLICATION PART-1
 Part 1 Repository
-## Student information
+## Student  information
 - Name:Luke
 - Surname:January
 - Student Number:ST10519564
