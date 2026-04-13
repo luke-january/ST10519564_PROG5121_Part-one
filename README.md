@@ -1,4 +1,4 @@
-# CHAT APPLICATION PART- 1
+# CHAT APPLICATION PART-1
 Part 1 Repository
 ## Student information
 - Name:Luke
