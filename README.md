@@ -18,4 +18,4 @@ It checks if the username meets the requirements(Must contain an underscore(_) a
 ### Password Validation
 it checks if the password meets the requirements(At least one capital letter,one number,one special character)
 ### Cellphone Number Validation
-check if cellphone Number meets requirements(Must include country code (e.g. +27) and Must be valid numeric format)
+check if cellphone Number meets requirements(Must include country code (e.g.+27) and Must be valid numeric format)
