@@ -4,7 +4,7 @@ Part 1 Repository
 - Name:Luke
 - Surname:January
 - Student Number:ST10519564
-- Module name =PROG5121
+- Module name PROG5121
   ------
 ## Project information
 ChatApp1 is a Java application that shows how basic user login systems work. It lets users register and log in by checking if their username, password, and phone number follow certain rules.
